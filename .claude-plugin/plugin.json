@@ -1,0 +1,24 @@
+{
+  "name": "clonar",
+  "description": "Doce skills gratis para Claude que clonan cualquier app y la promocionan, más el comando /clonar que guía todo el proceso: ingeniería inversa, reconstrucción, bugs, lo que sus usuarios odian, lanzamiento y Reels. Gratis, MIT.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aldush Media",
+    "url": "https://github.com/aldushmedia"
+  },
+  "homepage": "https://github.com/aldushmedia/clonar",
+  "repository": "https://github.com/aldushmedia/clonar",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "app-clone",
+    "reverse-engineering",
+    "saas",
+    "indie-hacker",
+    "product",
+    "espanol",
+    "instagram"
+  ],
+  "skills": "./"
+}

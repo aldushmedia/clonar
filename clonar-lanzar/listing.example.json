@@ -1,0 +1,16 @@
+{
+  "avoid": ["Nombre De La App Original", "Su Empresa"],
+  "app_store": {
+    "name": "Slotwise: Enlaces de reserva",
+    "subtitle": "Comparte tu enlace de citas",
+    "promotional_text": "Nuevo: recordatorios por SMS para que menos clientes olviden su cita. Gratis con un calendario.",
+    "description": "Slotwise convierte tu calendario en un enlace de reserva.\n\nComparte el enlace. Tus clientes ven solo los horarios en que estás libre, eligen uno y la cita llega a tu calendario con un enlace de videollamada incluido.\n\nLo que obtienes:\n- Un enlace para cada tipo de reunión\n- Márgenes para que las reuniones nunca queden una tras otra\n- Recordatorios por SMS y correo\n- Cobros al momento de reservar\n\nGratis con un calendario. Pro cuesta 8 USD al mes.",
+    "keywords": "agenda,calendario,reuniones,recordatorios,disponibilidad,clientes,planificador,turnos",
+    "whats_new": "Recordatorios por SMS. Actívalos en Ajustes."
+  },
+  "google_play": {
+    "title": "Slotwise: Enlaces de reserva",
+    "short_description": "Comparte un enlace y deja que tus clientes reserven cuando estás libre.",
+    "full_description": "Slotwise convierte tu calendario en un enlace de reserva.\n\nComparte el enlace. Tus clientes ven solo los horarios en que estás libre, eligen uno y la cita llega a tu calendario con un enlace de videollamada incluido.\n\nGratis con un calendario. Pro cuesta 8 USD al mes."
+  }
+}
