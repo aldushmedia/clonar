@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "clonar",
+  "description": "Clonar: el paquete de skills de Aldush Media para clonar apps con Claude, en español",
+  "owner": {
+    "name": "Aldush Media",
+    "url": "https://github.com/aldushmedia"
+  },
+  "plugins": [
+    {
+      "name": "clonar",
+      "description": "Doce skills para Claude que clonan cualquier app (explorar, arquitecto, diseño, construir, backend, probar, comparar, emprendedor, marca, lanzar, publicar y redes) y el comando /clonar que guía todo el proceso con tu aprobación en cada etapa.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/aldushmedia/clonar"
+    }
+  ]
+}
